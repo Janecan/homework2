@@ -1,2 +1,2 @@
- 盽计戈獶盽计夹
-(a non-constant pointer to non-constant data)
+盽计戈獶盽计夹
+(a non-constant pointer to constant data)

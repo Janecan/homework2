@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #define SIZE 5
 
-void bubble (int *const array,size_t size);
+void bubble (const int *array,size_t size);
 int main(void) {
     {
 	int a[SIZE]={5,22,31,24,11};
@@ -15,6 +15,6 @@ int main(void) {
     printf("\n  ascend");
         for (i=0;i<SIZE;++i){
 	       printf(" %4d",a[i]);
-	      }    
+	      }
     }
 }
