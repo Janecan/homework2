@@ -1,6 +1,6 @@
 [Project]
-FileName=work3.dev
-Name=work3
+FileName=work4.dev
+Name=work4
 Type=1
 Ver=2
 ObjFiles=
@@ -51,7 +51,7 @@ AutoIncBuildNr=0
 SyncProduct=1
 
 [Unit1]
-FileName=main3.c
+FileName=main4.c
 CompileCpp=0
 Folder=
 Compile=1
@@ -61,17 +61,7 @@ OverrideBuildCmd=0
 BuildCmd=
 
 [Unit2]
-FileName=bubble3.c
-CompileCpp=0
-Folder=
-Compile=1
-Link=1
-Priority=1000
-OverrideBuildCmd=0
-BuildCmd=
-
-[Unit3]
-FileName=swap3.c
+FileName=bubble4.c
 CompileCpp=0
 Folder=
 Compile=1

@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void bubble(const int *array,size_t size) 
+void bubble(const int *const array,size_t size) 
 {
  int i;
  unsigned int pass;
