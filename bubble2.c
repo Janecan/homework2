@@ -2,7 +2,7 @@
 #include <stdlib.h>
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
-void bubble(int *array,size_t size) 
+void bubble(int *const array,size_t size) 
 {
  void swap(int *element1Ptr,int *element2Ptr);	
  unsigned int pass;

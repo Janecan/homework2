@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #define SIZE 5
 
-void bubble (int *array,size_t size);
+void bubble (int *const array,size_t size);
 int main(void) {
     {
 	int a[SIZE]={5,22,31,24,11};
